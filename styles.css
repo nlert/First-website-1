@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+body {
+    background: linear-gradient(green, blue, red);
+    padding-bottom: 100px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h2 {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+    font-size: 40px;
+}
+img {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.not, .footer {
+    text-align: center;
+}
+hr {
+    max-width: 800px;
+    background-color: brown;
+    border-color: brown;
+    margin-top: 100px;
+}
+
+.misty-img {
+    max-width: 300px;
+    transform: rotate(10deg);
+    border-radius: 6rem;
+}
+
+.notnot {
+    text-align: center;
+}
+
+.list {
+    font-size: 25px;
+}
+
+.main-div {
+    max-width: 500px;
+    margin: 0 auto;
+}
